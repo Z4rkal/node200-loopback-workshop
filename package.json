@@ -8,7 +8,7 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
-    "posttest": "npm run lint && npm audit",
+    "posttest": "",
     "test": "mocha test/*.spec.js"
   },
   "dependencies": {
