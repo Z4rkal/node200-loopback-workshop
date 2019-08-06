@@ -8,7 +8,6 @@
   "scripts": {
     "lint": "eslint .",
     "start": "node .",
-    "posttest": "",
     "test": "mocha test/*.spec.js"
   },
   "dependencies": {
